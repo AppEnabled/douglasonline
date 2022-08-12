@@ -1,0 +1,26 @@
+Dear Customer,
+
+We have received and are processing the following order
+at My Company.
+
+******************************************************
+Order Number: BA123410000004
+Order Date:   1 January 2006 12:00 GMT
+
+Ship To:
+Ship NameShip CompanyShip Address1Ship Address2Ship Address3Ship Address4Ship Post CodeShip CountryShip PhoneShip FaxShip EmailShip User Defined
+
+Bill NameBill CompanyBill Address1Bill Address2Bill Address3Bill Address4Bill Post CodeBill CountryBill PhoneBill FaxBill EmailBill User Defined
+[Cart Info]
+******************************************************
+
+
+Sincerely,
+My Company
+
+My Street
+My Town
+South Africa
+My Phone Number
+YourName@YourCompanyEmail.com
+
